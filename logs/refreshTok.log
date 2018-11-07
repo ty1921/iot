@@ -1,0 +1,92 @@
+[2018/09/10 15:36:26]
+[2018/09/10 15:36:48]{"error_code":"100022","error_desc":"The input is invalid."}
+[2018/09/10 15:47:48]{"error_code":"100208","error_desc":"AppId or secret is not right. For more information, please visit the following URL: http://developer.huawei.com/ict/forum/forum.php?mod=viewthread&tid=2161&extra="}
+[2018/09/10 15:56:58]{"accessToken":"2d19d7c6ff5b5b2f77b789bb118d20","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"2afe4fde04f2f96b3eac2fff2fb1a3c"}
+
+[2018/09/10 16:00:45] {"error_code":"100006","error_desc":"Refresh access token failed. For more information, please visit the following URL: http://developer.huawei.com/ict/forum/forum.php?mod=viewthread&tid=2161&extra="}
+[2018/09/10 16:00:58] {"accessToken":"56db83c015b5b52385282e426ac56748","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"5a2361409f4ac52d21242e03ece4f61"}
+[2018/09/11 11:23:17] code=0&type=Status%20report&message=Runtime%20Error&description=Error%20while%20building%20message
+[2018/09/11 11:31:02] {"error_code":"100006","error_desc":"Refresh access token failed. For more information, please visit the following URL: http://developer.huawei.com/ict/forum/forum.php?mod=viewthread&tid=2161&extra="}
+[2018/09/11 11:44:27] {"error_code":"100006","error_desc":"Refresh access token failed. For more information, please visit the following URL: http://developer.huawei.com/ict/forum/forum.php?mod=viewthread&tid=2161&extra="}
+[2018/09/11 13:32:22] code=0&type=Status%20report&message=Runtime%20Error&description=Error%20while%20building%20message
+[2018/09/11 13:32:46] {"error_code":"100006","error_desc":"Refresh access token failed. For more information, please visit the following URL: http://developer.huawei.com/ict/forum/forum.php?mod=viewthread&tid=2161&extra="}
+[2018/09/11 14:46:42] HTTP/1.1 401 Unauthorized
+X-Frame-Options: SAMEORIGIN
+Content-Language: en-US
+m-trace: [2018-09-11 14:46:43,489] urn:uuid:ecd99437-37d2-4819-8b5f-6912ff4df7a8
+Content-Type: application/json;charset=UTF-8
+Cache-Control: no-store
+Date: Tue, 11 Sep 2018 06:46:43 GMT
+Transfer-Encoding: chunked
+Set-Cookie: SESSION_COOKIE=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+{"error_code":"100006","error_desc":"Refresh access token failed. For more information, please visit the following URL: http://developer.huawei.com/ict/forum/forum.php?mod=viewthread&tid=2161&extra="}
+[2018/09/11 16:03:15] {"accessToken":"50e65436645b9905123c1fc97facc","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"6ae7c05ec030a452ef85c919f49fa229"}
+[2018/09/11 16:03:15] {"accessToken":"c375c44038f6d911a45e4e7f6d390fe","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"bfc44cc5453a89f5ace6726e2ec7d2e"}
+[2018/09/11 16:03:16] {"accessToken":"ea3ab78c76cd843a8a543b2c1b1a77","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"dbc11fb57379c68b106347cf3d8ecee"}
+[2018/09/11 16:03:16] {"accessToken":"a37c5dd1792cf07f5acf76f428b326","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"2ab5876eabe3aea8e1222dc73827c18"}
+[2018/09/11 16:03:16] {"accessToken":"dcf5d2cb55569ad1951d5d7fe7b31f46","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"10967fb3b87dabb5306c8ce1af578f41"}
+[2018/09/11 16:03:17] {"accessToken":"e8ab528a92fea6dbc8d829dbe7daf7e","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"a554716669abac7f0d0bc2c5c731f"}
+[2018/09/11 16:03:17] {"accessToken":"9416e722ed36c9ec4a813e7cb14def5","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"83eb218258ad5173748e989cc59488"}
+[2018/09/11 16:03:18] {"accessToken":"fc7bb2b5e8d30cbf191bc9717537ad0","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"143077b326533738a7e0e8c8f3b075"}
+[2018/09/11 16:03:18] {"accessToken":"d190fbb902c5f41f31ea3c185e1b56","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"8cad0b4e12e2dd6f123a07d1e62f99"}
+[2018/09/11 16:03:18] {"accessToken":"f837de15ae16c2b26a8996562792c0a6","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"75139a3753f5c06f7917e6a2b453e3"}
+[2018/09/11 16:03:19] {"accessToken":"ba8b388164124a998049cc2ef0c054","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"6a4ecf967e6a5516fda9ccedaeae9d2e"}
+[2018/09/11 16:03:19] {"accessToken":"e71aa08e14f0eb622d328f619db4c45","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"db9cefa372f2629e1eb7114fd7ca135"}
+[2018/09/11 16:03:20] {"accessToken":"17f26cf55c62fdb8fcefd72ea5356dfd","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"6bcd8cc38b54b6bbd60ffab42994d7b"}
+[2018/09/11 16:03:20] {"accessToken":"7bbda88397171743ec77ecfdfee8145","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"d1f8954bf25bc6fceab225d79e5c6a68"}
+[2018/09/11 16:03:24] {"accessToken":"13ed1a5aeba8df4d4c51542068432fa","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"2ec87f9d75c12f3397bb6487c5df6f39"}
+[2018/09/11 16:03:24] {"accessToken":"cdc4f5674547211203630645696b7","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"f16dc080e6ce5d7bee334bf61159e5"}
+[2018/09/11 16:03:24] {"accessToken":"b091c72d140731b9e21f71ca3888753","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"826aa0b8b7311b7d06aa0b18a1ae"}
+[2018/09/11 16:03:25] {"accessToken":"43161de8f584ff81e83da53b08ca0ac","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"ba9fa19e57e968fcd63f56ebbdc894c7"}
+[2018/09/11 16:03:25] {"accessToken":"8591487d51fc64fb947298ceebc9c529","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"99a94151b4ae42abc2a996b5e89aa6"}
+[2018/09/11 16:03:26] {"accessToken":"32a1a968524c2ced518f2d4e1a180e7","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"281df5c1ff1d426f138d176e362c7d43"}
+[2018/09/11 16:03:26] {"accessToken":"f7c0a4efc23ca7f633576481a327102a","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"cc348c731d324886cb65c758037449f"}
+[2018/09/11 16:03:26] {"accessToken":"a6898e3053bcddb39d47ddaec355958","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"f61d975997489e20af9d44b86cfa3e59"}
+[2018/09/11 16:03:27] {"accessToken":"eda3da77f4d3084922aefeec93739d5","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"7a1ce36950ebe0eee3ad888a40c2c950"}
+[2018/09/11 16:03:27] {"accessToken":"f5b49cabbec37239c5ef5d37dd62b2db","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"146dcb4e995fa17a8394c282d7a07e8a"}
+[2018/09/11 16:03:28] {"accessToken":"353626fa23ca15cf850f0878fc2ff","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"93e95f9e3ea4596f445ddad7d37484e"}
+[2018/09/11 16:03:28] {"accessToken":"1ffb651471376140b78f651d3f6d89e3","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"8a10e97f3d255c4aa67ebe2030dc1cf"}
+[2018/09/11 16:03:28] {"accessToken":"768f59c73c2fae2813d3478d9fcdfca","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"9e2fb4fbecca1ed3a95aa39c639e2da"}
+[2018/09/11 16:03:29] {"accessToken":"18849bfa3b59f92d7242ef9899e858","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"3e1a4e443523ba7722ea4dbe45bb7d"}
+[2018/09/11 16:03:29] {"accessToken":"fa3df83af44ba43044dadfab6fc8142a","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"a8542140e2b7d81dbc4815b950d1bac6"}
+[2018/09/11 16:03:30] {"accessToken":"dd075d5f3758641601aba5adce53b4","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"17f41337734233f995328eb33f2f09e"}
+[2018/09/11 16:03:30] {"accessToken":"ac8952a771f894a2cde46d35a8bd65","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"439f947070628b515e6f12e0925caa"}
+[2018/09/11 16:03:30] {"accessToken":"ea308c41d6d36836a77ceb3b12603ffd","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"ee65b837b8ce3d2fe7c56b82bfa56213"}
+[2018/09/11 16:03:31] {"accessToken":"de9a3da7ceee27ae4e71d2f1a11d382","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"38435d2ba6aada7cfc5bc4c9a5ebc23"}
+[2018/09/11 16:03:31] {"accessToken":"715f826eb48a16b8d54bf2f71482ea4a","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"a643aa58d2ef8fce368b3541efe4329"}
+[2018/09/11 16:03:31] {"accessToken":"1713142adc567672a80a0e2ce8fd5c","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"49f2c1a5851b9306df210b8df12689d"}
+[2018/09/11 16:03:32] {"accessToken":"c62622c995edcba21fcf669bf36139","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"777b43b6340ae62ed5c3ceb1ac56b4f"}
+[2018/09/11 16:03:32] {"accessToken":"857cbd26d46dc2b648fa93e9b8bba25b","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"42b76fce895c74eee8f98c8ced359ba"}
+[2018/09/11 16:03:33] {"accessToken":"1436b55578ca24ec0743461665075d","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"15d9fc3af6773862ac6ad22aa83c765"}
+[2018/09/11 16:03:33] {"accessToken":"4c791e7c4a46db97a52b123625b46e","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"fec119cb5867ccd9ec070212b91b0"}
+[2018/09/11 16:03:33] {"accessToken":"b07bec908b2a7d2f41796c27fb5c09","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"db1a619936cba51ac33dde13c6a068"}
+[2018/09/11 16:03:34] {"accessToken":"2610733d481654fdce4b2f2cec2457d7","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"d450b33ffbb2e4a3dda8a1483ea308e"}
+[2018/09/11 16:03:34] {"accessToken":"352093b62a648d7e2ee121f6d1e44","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"60419aa7e62791ce459bba41c02d7b0"}
+[2018/09/11 16:03:34] {"accessToken":"556b92e54b899a21b534232f1747086","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"efd28b1f91cab29a53838752bb6a338"}
+[2018/09/11 16:03:35] {"accessToken":"7b9ca020ed43f744f543a6ae0c0964","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"78a764e2d1237f71e3b46280652bcbd"}
+[2018/09/11 16:03:35] {"accessToken":"7533e7f61f742c2206ec8f0f1fcf98c","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"24e24497548abab09fd17e1fb24e359"}
+[2018/09/11 16:03:36] {"accessToken":"c36287d27c92487a71e0a63733ff4bc9","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"e792aa41dbc1d998065e8e0ae859137"}
+[2018/09/11 16:03:36] {"accessToken":"33bb4c28f55e6a6ac5677c2b6c222b64","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"9273a632185fc72c3635c05ac5ee3ee"}
+[2018/09/11 16:03:36] {"accessToken":"109845defbf4fc966b82ba5f386b","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"f699cd32beef835bb466c3ee22b3cb28"}
+[2018/09/11 16:03:37] {"accessToken":"f49863f7f8edb44d4928a18c8b5e6761","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"9933b5797229eed706c7d5888cb8329"}
+[2018/09/11 16:03:37] {"accessToken":"2e3dd85369b19a68d1320bccc369455","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"624e858d7699a9bec568b244b35bc9d8"}
+[2018/09/11 16:03:38] {"accessToken":"833117a5823bbddbacd73e1082bd47","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"cbcf944f217a3bd323adb51411c72a94"}
+[2018/09/11 16:03:38] {"accessToken":"78ecd748224ab411733f932cb798078","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"ddfde146e6c29e2b8df420df8da5eeb"}
+[2018/09/11 16:03:38] {"accessToken":"9ce24a14944b761ddd90ddb6397241f7","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"3142141f90e1317a77a989c7f97ddb46"}
+[2018/09/11 16:03:39] {"accessToken":"4d8e348adc5d64928c9075e4de9467a7","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"26517f8172870bbebcc27139fd04295"}
+[2018/09/11 16:03:39] {"accessToken":"9c56b7c4e7dda57e3bf32a4d7f955145","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"69aed625a83e9050faf3fc56c33717b9"}
+[2018/09/11 16:03:40] {"accessToken":"b7bf44d851a27de6a572d6f726c7939","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"6c33d3b479b5146c52c1be37e7e18d98"}
+[2018/09/11 16:03:40] {"accessToken":"4e153c3a1c8e42fbe41240d73e6fe8eb","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"ea777db236b4956ef93d702de728da"}
+[2018/09/11 16:03:41] {"accessToken":"73b49adc4c78cdcf11991bf3353b9054","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"66a53a4f8b6fe574b01cf548da3778a9"}
+[2018/09/11 16:03:41] {"accessToken":"3722e5752621677d54cbea6fd54c7072","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"7617a23d55dd0508c57b7bf26612fb1"}
+[2018/09/11 16:03:41] {"accessToken":"905bf793eeb0a751863c8896ad2da882","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"a9037f1b3e27cccf251f695a8efefa"}
+[2018/09/11 16:03:42] {"accessToken":"a86a70c25324c4769ad94977380ba5","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"cf894f32df9ddf5344af2a504d7016"}
+[2018/09/11 16:03:42] {"accessToken":"20a6714a762f679fdbabce832c901f32","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"bc838182e6db756ed5c517847d305d55"}
+[2018/09/11 16:03:42] {"accessToken":"1d18ccd7147ddcae48aad831d5f726","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"cb87d16e9b7bacd5aa76138ad425bef2"}
+[2018/09/11 16:03:43] {"accessToken":"2b67b18d46966449d5fa288af2d66","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"ea4e6fa96b7dddf1834181b151cedf"}
+[2018/09/11 16:03:43] {"accessToken":"16e046fca5813317ea7dff3280df30b9","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"dc7551c88f73c7eaedbe9db4907f3372"}
+[2018/09/11 16:03:44] {"accessToken":"43f87b3858fc76a66f157df3831f65e1","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"141c5b99e442135dc198a07ef4abec73"}
+[2018/09/11 16:03:44] {"accessToken":"8af8d8b1797b5172097dea295951a12","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"fac55a98ad73ff5714de8f6a6fc3a6c"}
+[2018/09/11 16:03:44] {"accessToken":"4138f6546b8be43a9020c71692269bd8","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"f7689dd40481cefae7dea916ae56d8"}
+[2018/09/17 19:32:43] {"accessToken":"e81b7afa454a27f210d7925222dcfaf8","tokenType":"bearer","expiresIn":3600,"scope":"default","refreshToken":"4b2eaee6d821d59f3fff08b819aec6"}

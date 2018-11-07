@@ -1,0 +1,58 @@
+[2018/09/10 15:48:46]{"error_code":"100208","error_desc":"AppId or secret is not right. For more information, please visit the following URL: http://developer.huawei.com/ict/forum/forum.php?mod=viewthread&tid=2161&extra="}
+[2018/09/10 15:52:46]{"accessToken":"6450c9389485119ac999f3ba64ecdc72","tokenType":"bearer","refreshToken":"3b3ed721f98a43c32f911dadb619","expiresIn":3600,"scope":"default"}
+
+[2018/09/11 14:46:06] HTTP/1.1 200 OK
+X-Frame-Options: SAMEORIGIN
+m-trace: [2018-09-11 14:46:07,166] urn:uuid:b5a335ad-ce3f-4156-a83e-8184e2855074
+Content-Type: application/json;charset=UTF-8
+Date: Tue, 11 Sep 2018 06:46:06 GMT
+Transfer-Encoding: chunked
+Set-Cookie: SESSION_COOKIE=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+{"accessToken":"1149ccedd0395dc19c876941d534f5a2","tokenType":"bearer","refreshToken":"722c27960b5ace40b4ebcfa67c2c14","expiresIn":3600,"scope":"default"}
+[2018/09/11 14:50:35] HTTP/1.1 200 OK
+X-Frame-Options: SAMEORIGIN
+m-trace: [2018-09-11 14:50:36,012] urn:uuid:9ed14e8a-1491-4b26-b9e7-d63c85996e97
+Content-Type: application/json;charset=UTF-8
+Date: Tue, 11 Sep 2018 06:50:35 GMT
+Transfer-Encoding: chunked
+Set-Cookie: SESSION_COOKIE=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+{"accessToken":"b633249480ad36a5fb61e61a4b7ba4e","tokenType":"bearer","refreshToken":"8843f5451dee7d9dbb756cea11dfcbbb","expiresIn":3600,"scope":"default"}
+[2018/09/11 14:51:50] HTTP/1.1 200 OK
+X-Frame-Options: SAMEORIGIN
+m-trace: [2018-09-11 14:51:51,149] urn:uuid:04890572-ad81-44aa-9b06-7a0a3a7da9cd
+Content-Type: application/json;charset=UTF-8
+Date: Tue, 11 Sep 2018 06:51:50 GMT
+Transfer-Encoding: chunked
+Set-Cookie: SESSION_COOKIE=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+{"accessToken":"2a4e38af616db71ea2f8b8c2efc58f","tokenType":"bearer","refreshToken":"a7d03a1a8a780ca29836a72103e8b3a","expiresIn":3600,"scope":"default"}
+[2018/09/11 14:52:05] HTTP/1.1 200 OK
+X-Frame-Options: SAMEORIGIN
+m-trace: [2018-09-11 14:52:06,403] urn:uuid:d72169e7-8159-4814-9b34-f6bb55deae53
+Content-Type: application/json;charset=UTF-8
+Date: Tue, 11 Sep 2018 06:52:06 GMT
+Transfer-Encoding: chunked
+Set-Cookie: SESSION_COOKIE=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+
+{"accessToken":"5427480ff77f36b49e3c2386d6198e","tokenType":"bearer","refreshToken":"3353bda37d562ff917677069ed7cf125","expiresIn":3600,"scope":"default"}
+[2018/09/11 14:57:48] {"accessToken":"3bc8f42982d0bef9781e7fba7c5914fa","tokenType":"bearer","refreshToken":"584d67bde1b75a5d891eb5164ee94bb","expiresIn":3600,"scope":"default"}
+[2018/09/11 16:19:18] {"accessToken":"d559301d85ef4c60679649d09892fff5","tokenType":"bearer","refreshToken":"5f796abc96da7fa6919d319837fc7d7","expiresIn":3600,"scope":"default"}
+[2018/09/11 19:13:45] {"accessToken":"e8ebd435d14e246de5ac59818fbf4e94","tokenType":"bearer","refreshToken":"b439356fe165ea4a654650e7b5e426","expiresIn":3600,"scope":"default"}
+[2018/09/12 11:35:45] {"accessToken":"ae148e44ab9b1657aaef9361353f17e","tokenType":"bearer","refreshToken":"3e9d86b74e66c1c68cea507b0962d7c","expiresIn":3600,"scope":"default"}
+[2018/09/12 18:57:21] {"accessToken":"8ffd3431403262485281e363e8f32cf","tokenType":"bearer","refreshToken":"11944493e9de71a7fa5ec76aea49a32a","expiresIn":3600,"scope":"default"}
+[2018/09/13 10:41:43] {"accessToken":"21bce2e35ddb71d096bc883710ff2cc0","tokenType":"bearer","refreshToken":"5f392b8a736312f5634f5682e458c969","expiresIn":3600,"scope":"default"}
+[2018/09/13 13:50:32] {"accessToken":"a23ece8677dd971f95b8fbb4785ff","tokenType":"bearer","refreshToken":"2d9f19d97bee36a571f0f8489f197","expiresIn":3600,"scope":"default"}
+[2018/09/13 14:52:43] {"accessToken":"d9f52580fdb051b76ccb5fa96555212","tokenType":"bearer","refreshToken":"d81ca020db6751a537ec8fbfa85bb6","expiresIn":3600,"scope":"default"}
+[2018/09/13 15:57:06] {"accessToken":"2fab802f6d5ac894d849a127afebfc3b","tokenType":"bearer","refreshToken":"1bd93f79c59fe1aaae8728bc2efe816c","expiresIn":3600,"scope":"default"}
+[2018/09/13 19:03:45] {"accessToken":"da926f5a1eacc524c0d8306ab64fb3d","tokenType":"bearer","refreshToken":"aec27156c5e5559b67844853217f9","expiresIn":3600,"scope":"default"}
+[2018/09/14 11:04:29] {"accessToken":"b9a1e12fc1cf186f7eea60dcda7a5258","tokenType":"bearer","refreshToken":"b538ddda74c62b2d2ed6615ffecf9c2","expiresIn":3600,"scope":"default"}
+[2018/09/14 13:39:24] {"accessToken":"1257afeaec956643dd6916e83532ffb7","tokenType":"bearer","refreshToken":"8ffc23bb15ce36e2019603a5d6a3cd","expiresIn":3600,"scope":"default"}
+[2018/09/14 15:03:19] {"accessToken":"77cbd6a8c8391deeb56a78e810dcee","tokenType":"bearer","refreshToken":"3de270dac857bdf4838bc6f0dff97572","expiresIn":3600,"scope":"default"}
+[2018/09/14 16:32:27] {"accessToken":"cb1c8b6d82deda5abb73c39f8fc8d","tokenType":"bearer","refreshToken":"ef41fa4687de6bee72357ffaf2d257cb","expiresIn":3600,"scope":"default"}
+[2018/09/14 17:42:24] {"accessToken":"99c70d919936159964543c2face98d4","tokenType":"bearer","refreshToken":"d7b72f49e235ca694543d2d1d2ca7fa","expiresIn":3600,"scope":"default"}
+[2018/09/16 13:23:28] {"accessToken":"fc681c6c97b2a7b5b809cd79e18fa4","tokenType":"bearer","refreshToken":"ec11e4114d766ee09f9ab6fc79c7069","expiresIn":3600,"scope":"default"}
+[2018/09/17 10:53:11] {"accessToken":"20f74a6a547b1c31fff25cd365fd1d6c","tokenType":"bearer","refreshToken":"a41ce356ac9e92877d6acd0a696a131","expiresIn":3600,"scope":"default"}
+[2018/09/17 16:06:03] {"accessToken":"6210ac39e4afbbde69eb280ee778259","tokenType":"bearer","refreshToken":"91fae36135c590ba6f254fea15ce36f","expiresIn":3600,"scope":"default"}
+[2018/09/17 18:53:18] {"accessToken":"d8145722b9d601de7b245b57946f3c","tokenType":"bearer","refreshToken":"3d4c29be14f9fb98c94fe19e54be3bd","expiresIn":3600,"scope":"default"}
