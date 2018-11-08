@@ -39,11 +39,9 @@ class Iot
     {
         $this->host    = 'https://180.101.147.89:8743/iocm/app/';
 
-        $this->appid   = 'GKOGbIA2kzeIS24Y3i318TLv8lka';      //appid
+        $this->appid   = 'xxxxxxxxxxxxx';      //your appid
 
-        $this->secret  = 'ZgI2LfdgEB1W9drfCOR9oW6t9dsa';    //secret
-
-        $this->devkey  = '98dfe5aca5654d85bec5';    //密钥  
+        $this->secret  = 'xxxxxxxxxxxxx';    //your secret
 
         $this->serviceId = 'CarLock';
 
