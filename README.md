@@ -16,7 +16,7 @@
 |  目录 | 文件  |描述   |
 | :------------ | :------------ | :------------ |
 |  . | api.php  | 示例参考demo  |
-| .  | iot.php  | 核心sdk  |
+| .  | iot.php  | 核心sdk，包括appid等参数在这里配置  |
 |  . | README.md  |   |
 |  logs | ……  | 日志文件  |
 | ssl  | outgoing.CertwithKey.pem  | 平台证书  |
