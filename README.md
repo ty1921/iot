@@ -10,24 +10,18 @@
 
 ———————————————————————————————————
 
-**目录结构：**
-./
-│  api.php				示例参考demo
-│  iot.php				核心sdk
-│  README.md			
-│
-├─**logs**
-│      deviceCredentials.log	创建设备日志
-│      devices.log				设备上下行日志
-│      login.log				平台登录日志
-│      refreshTok.log			令牌刷新日志
-│
-**├─ssl**
-│      outgoing.CertwithKey.pem	平台证书
-│
-**└─token**
-|        access.token			平台令牌
-|        refresh.token			平台刷新令牌
+
+|  目录 | 文件  |描述   |
+| :------------ | :------------ | :------------ |
+|  . | api.php  | 示例参考demo  |
+| .  | iot.php  | 核心sdk  |
+|  . | README.md  |   |
+|  logs | ……  | 日志文件  |
+| ssl  | outgoing.CertwithKey.pem  | 平台证书  |
+|   token|  access.token |   平台令牌|
+|  token |refresh.token   |  平台刷新令牌 |
+
+
 
  **备注** 
 
